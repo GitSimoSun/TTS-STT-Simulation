@@ -1,0 +1,3 @@
+[submodule "wav2vec2-large-xlsr-moroccan-darija"]
+	path = wav2vec2-large-xlsr-moroccan-darija
+	url = https://huggingface.co/boumehdi/wav2vec2-large-xlsr-moroccan-darija.git

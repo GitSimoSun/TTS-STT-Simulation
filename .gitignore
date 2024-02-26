@@ -1,0 +1,5 @@
+env
+env2
+frontend/node_modules
+TTSModel
+wav2vec2-large-xlsr-moroccan-darija
